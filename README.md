@@ -8,11 +8,10 @@ Welcome to your structured tour guide commentary practice system! This resource 
 - [Slide Guide](#slide-guide)
 - [On-Coach Commentary](#on-coach-commentary)
 - [Practice Methods](#practice-methods)
-- [Progress Tracking](#progress-tracking)
 - [Customization](#customization)
-- [Technology Tools](#technology-tools)
+- [Technology Tools](#technology-tools-examples)
 - [Troubleshooting Common Issues](#troubleshooting-common-issues)
-- [Daily Practice Schedule](#daily-practice-schedule)
+- [Final Advice](#final-advice)
 
 ## Overview
 
