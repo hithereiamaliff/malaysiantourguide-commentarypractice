@@ -12,6 +12,21 @@
 - One of the oldest streets in George Town
 - Historic center of British colonial administration
 
+- **Foo Tye Sin Mansion**
+  - Historic residence of prominent Chinese businessman
+  - Example of wealthy merchant architecture
+  - Blend of Eastern and Western design elements
+
+- **Penang Chinese Chamber of Commerce Building**
+  - Important institution for Chinese business community
+  - Architectural significance
+  - Symbol of Chinese economic contributions to Penang
+
+- **Bank Negara Malaysia, Penang Branch**
+  - Central bank branch in historic building
+  - Important financial institution
+  - Example of adaptive reuse of heritage structure
+
 ### Lebuh Farquhar
 - Named after Robert Townsend Farquhar, Lieutenant-Governor of Penang (1804-1805)
 - Features elegant colonial buildings and heritage sites
@@ -26,6 +41,11 @@
   - Features Greek and Georgian architectural styles
   - Houses beautiful stained glass windows and memorials
   - Symbol of British colonial religious presence
+
+- **Penang Court Complex (Penang High Court)**
+  - Judicial center of Penang
+  - Important legal institution
+  - Architecture represents authority and law
 
 - **Church of the Assumption Penang**
   - Historic Catholic church
@@ -58,9 +78,24 @@
 - Former home of early governors including Francis Light himself
 - Beautiful colonial architecture with distinctive arches
 
+### Magistrate & Session Court (Civil) Penang
+  - Handles civil legal cases
+  - Part of Penang's judicial system
+  - Historic building with legal significance
+
+### Dewan Sri Pinang
+  - Cultural and performance venue
+  - Modern Malaysian architecture
+  - Center for local arts and cultural events
+
 ### Jalan Tun Syed Sheh Barakbah
 - Modern road named after the first Malaysian Governor of Penang
 - Follows the seafront with scenic views of the Straits of Malacca
+
+### Medan Renong Food Complex
+  - Local food court with authentic Penang dishes
+  - Affordable dining option showcasing local cuisine
+  - Opportunity to discuss Malaysian food culture
 
 ### Esplanade
 - Historic open field by the sea
@@ -101,6 +136,11 @@
 - Another section of Light Street
 - Historic area with colonial buildings
 - Part of the UNESCO World Heritage zone
+
+### Penang State Assembly (Dewan Undangan Negeri Pulau Pinang)
+  - Where state legislative sessions are held
+  - Important site of local governance
+  - Houses the democratic processes of the state
 
 ### Jalan Masjid Kapitan Keling (formerly Pitt Street, Street of Harmony)
 - Known as "Street of Harmony" due to the diverse religious buildings
@@ -155,11 +195,60 @@
 - Features traditional shophouses with unique architecture
 - Blend of various cultural influences in architecture and commerce
 
+#### POIs on Lebuh Carnarvon:
+
+- **Lebuh Acheh**
+  - Historic street with Malay and Arabic influences
+  - Home to Acheen Street Mosque and Malay community
+  - Features traditional shophouses and heritage buildings
+
+- **Lebuh Armenian**
+  - Popular street known for street art and heritage buildings
+  - Home to many restored pre-war shophouses
+  - Cultural hotspot with cafes, galleries, and boutiques
+
+- **Sia Boey Urban Archaeological Park**
+  - Former Prangin Canal market area
+  - Recently revitalized as urban park
+  - Features preserved archaeological findings
+  - Blends heritage conservation with modern urban planning
+
 ## ROUTE 2: Magazine Road to Greenlane/Jalan Masjid Negeri
 
 ### Magazine Road
 - Named after the gunpowder magazine stored here during colonial times
 - Now a busy commercial center with modern and heritage buildings
+
+#### POIs on Magazine Road:
+
+- **KOMTAR**
+  - Kompleks Tun Abdul Razak
+  - Tallest building in Penang (65 stories)
+  - Completed in 1986
+  - Houses government offices and commercial spaces
+  - Iconic landmark and symbol of modern Penang
+
+- **The TOP KOMTAR**
+  - Revitalized tourist attraction at the top of KOMTAR
+  - Features glass walkways, observation deck
+  - Rainbow Skywalk offers panoramic views of Georgetown and beyond
+  - Various themed attractions and entertainment options
+
+- **GAMA Supermarket**
+  - Oldest supermarket in Malaysia
+  - Popular local shopping destination
+  - Offers variety of local and imported products
+  - Convenient stop for tourists and locals alike
+
+- **1st Avenue Mall**
+  - Modern shopping mall connected to KOMTAR
+  - Houses international and local brands
+  - Part of Georgetown's evolving retail landscape
+
+- **Prangin Mall**
+  - Popular shopping center in downtown George Town
+  - Formerly site of Prangin Canal, a historic waterway
+  - Mix of retail stores, food outlets, and entertainment
 
 ### Penang Road
 - One of the main arteries of George Town
@@ -170,6 +259,22 @@
 - Known for its famous roti canai stalls
 
 #### POIs on Transfer Road:
+
+- **Majestic Theatre**
+  - Historic cinema dating back to pre-WWII era
+  - Example of early entertainment venues in Penang
+  - Architectural landmark with distinctive facade
+
+- **Batek Lah Collection**
+  - Specializes in batik products
+  - Showcase of Malaysian textile arts
+  - Traditional crafts in contemporary context
+
+- **Maliia Bakery**
+  - One of the oldest bakeries in Penang
+  - Local bakery with Malaysian-style baked goods, including Bengali bread
+  - Example of fusion between Western baking and local flavors
+
 - **Transfer Road Roti Canai**
   - Iconic street food spot operating since the 1930s
   - Known for authentic Indian-Muslim flatbread
@@ -205,6 +310,11 @@
   - Many now house cafes, boutique hotels, and shops
   - Protected under UNESCO heritage status
 
+- **Lebuh Carnarvon Night Market**
+  - Vibrant evening market with local street food
+  - Shopping for clothes, accessories, and daily goods
+  - Authentic local nightlife experience
+
 - **Little India**
   - Vibrant cultural enclave with Indian shops and restaurants
   - Colorful street scenes with textile shops, spice stores
@@ -222,10 +332,38 @@
 - Historic waterfront area once bustling with trading activities
 - Important link to Penang's maritime history
 
+
+
+- **The Prestige Hotel, Gat Lebuh Gereja**
+  - Boutique hotel in restored heritage building
+  - Example of adaptive reuse in heritage context
+  - Modern luxury accommodations in historic setting
+
+- **Schmidt Kustermann Building (Royale Bintang Hotel)**
+  - Historic commercial building with distinctive architecture
+  - Repurposed as hotel while preserving heritage elements
+  - Example of heritage conservation in modern context
+
+- **Penang Islamic Religious Department Building**
+  - Colonial architecture repurposed for Islamic administration
+  - Blend of colonial structure with Islamic administrative function
+  - Representative of Penang's multicultural administrative heritage
+
+- **Penang Post Office Building**
+  - Historic postal services building
+  - Colonial architecture with functional purpose
+  - Important communication hub in pre-digital era
+
+- **Former Standard Chartered Bank**
+  - Impressive colonial banking architecture
+  - Represents Penang's historical importance as financial center
+  - Example of adaptive reuse of heritage buildings
+
 ### Roundabout turn back to Pengkalan Weld
 - **Art Sculpture** at the junction between Gat Lebuh Chulia and Lebuh Victoria
   - Contemporary public art piece
   - Represents Penang's blend of heritage and modern artistic expression
+  - Pinang fruit cut into two
 
 #### POIs along Pengkalan Weld:
 - **Pangkalan Raja Tun Uda Ferry Terminal**
@@ -281,12 +419,14 @@
   - Named after prominent Malaysian politician
   - Popular recreational area with food outlets
 
-- **Flat houses** along highway between Bandar Sri Pinang and Tunku Kudin interchanges
-  - Public housing developments
+- **Flat houses along Lebuhraya Tun Dr. Lim Chong Eu**
+  - Public housing developments between Bandar Sri Pinang and Tunku Kudin interchanges
   - Represent urban development of Penang
+  - Example of different housing types in the city
 
 - **Lotus's Supermarket**
   - Modern retail establishment
+  - Formerly known as Tesco
   - Contrast to traditional markets seen earlier
 
 - **The Light City**
