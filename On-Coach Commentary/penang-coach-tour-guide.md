@@ -113,10 +113,6 @@
   * Goddess of Mercy Temple (Buddhism/Taoism)
 - Symbolizes peaceful coexistence of different faiths
 - UNESCO recognized this street as an outstanding example of cultural harmony
-- **Nasi Kandar Beratur**
-  - Famous local eatery known for its queues
-  - Serves traditional Nasi Kandar (rice with curry)
-  - Popular with locals and tourists alike
 
 #### POIs on Street of Harmony:
 - **Goddess of Mercy (Guanyin) Temple**
@@ -142,6 +138,11 @@
   - Features Indo-Moorish architecture with large domes
   - Center of Muslim community activities
   - Distinctive black domes and minaret
+
+- **Nasi Kandar Beratur**
+  - Famous local eatery known for its queues
+  - Serves traditional Nasi Kandar (rice with curry)
+  - Popular with locals and tourists alike
 
 ### Jalan Kampung Kolam
 - Traditional residential area for Tamil Muslims
