@@ -6,7 +6,6 @@ Welcome to your structured tour guide commentary practice system! This resource 
 - [Overview](#overview)
 - [Directory Contents](#directory-contents)
 - [Slide Guide](#slide-guide)
-- [On-Coach Commentary](#on-coach-commentary)
 - [Practice Methods](#practice-methods)
 - [Progress Tracking](#progress-tracking)
 - [Customization](#customization)
@@ -20,19 +19,12 @@ This system breaks down comprehensive Malaysian tour content into 30 structured 
 
 ## Directory Contents
 
-This repository contains:
+This repository contains 30 individual slide files, each following a consistent format:
 
-1. **Slide Commentary**: 30 individual slide files, each following a consistent format:
-   - **Key Talking Points**: Organized into clear subtopics with bullet points
-   - **Practice Tips**: Specific advice for that particular slide's content
-   - **Sample Opening**: A suggested way to begin your commentary for that slide
-   - **Potential Q&A**: Common questions visitors might ask about the topic
-
-2. **[On-Coach Commentary](On-Coach%20Commentary/penang-coach-tour-guide.md)**: Detailed guides for bus tours including:
-   - **Penang On-Coach Tour Guide**: Comprehensive route-based commentary for Penang coach tours
-   - Organized by routes, streets, and points of interest
-   - Sequential guidance following actual tour routes
-   - Historical and cultural information about each location
+- **Key Talking Points**: Organized into clear subtopics with bullet points
+- **Practice Tips**: Specific advice for that particular slide's content
+- **Sample Opening**: A suggested way to begin your commentary for that slide
+- **Potential Q&A**: Common questions visitors might ask about the topic
 
 ## Slide Guide
 
@@ -71,24 +63,17 @@ Click on each slide link to view the detailed commentary guide:
 | [29](29_Cultural_Celebrations.md) | Malaysian Cultural Celebrations | Hari Raya, lion dance, San Pedro festival |
 | [30](30_Malaysian_Food_2.md) | Malaysian Food (Part 2) | Cendol, nasi lemak, satay |
 
-## On-Coach Commentary
-
-In addition to slide-based commentary, this repository includes guides for delivering commentary during coach (bus) tours:
-
-### [Penang On-Coach Tour Guide](On-Coach%20Commentary/penang-coach-tour-guide.md)
-
-This comprehensive guide is structured to follow the actual routes taken by tour coaches in Penang:
-
-- **Route-Based Organization**: Commentary follows three specific coach routes through Penang
-- **Sequential Guidance**: Streets and points of interest in the exact order they're encountered
-- **Detailed Points of Interest**: Historical and cultural information about each location
-- **Special Focus Areas**: Extra details for stops where coaches pause longer (like Fort Cornwallis)
-
-The on-coach commentary is designed for continuous delivery while in transit, with specific talking points tied to visual landmarks as they appear along the route.
-
 ## Practice Methods
 
-### Script Development
+### Preparation Stage
+
+#### 1. Knowledge Organization
+- **Create Flash Cards**: For each slide, create 3-5 cards with key facts to remember
+- **Mind Maps**: Draw connections between related topics across different slides
+- **Timeline**: For historical slides, create a timeline to help remember chronological order
+- **Categories**: Group similar attractions (food, crafts, buildings) to identify patterns
+
+#### 2. Script Development
 - **Create an Outline**: For each slide, prepare a simple outline with:
   - Opening hook
   - 3-5 key points
@@ -97,19 +82,21 @@ The on-coach commentary is designed for continuous delivery while in transit, wi
 - **Engaging Questions**: Develop 1-2 questions to ask your audience for each slide
 - **Anecdotes**: Add 1-2 personal or interesting stories per slide when appropriate
 
-### Solo Practice
+### Practice Stage
+
+#### 1. Solo Practice
 - **Record Yourself**: Record your commentary for each slide separately
 - **Time Management**: Practice with a timer to stay within 2-3 minutes per slide
 - **Mirror Practice**: Practice in front of a mirror to check gestures and expressions
 - **Slide-Only Practice**: Look at just the slide image (without notes) and practice describing it
 
-### Feedback Methods
+#### 2. Feedback Methods
 - **Self-Critique**: Listen to your recordings and note areas for improvement
 - **Peer Review**: Practice with a friend who can provide constructive feedback
 - **Simplification**: If a section feels too complex, simplify your language
 - **Prioritization**: Identify the most important facts to emphasize for each slide
 
-### Progressive Practice
+#### 3. Progressive Practice
 - **One Slide at a Time**: Master each slide individually before moving to the next
 - **Slide Pairs**: Practice transitioning between two slides
 - **Small Sections**: Practice 5 slides in sequence before expanding
@@ -135,6 +122,75 @@ The on-coach commentary is designed for continuous delivery while in transit, wi
 - **Inclusivity**: Ensure commentary appeals to diverse audiences
 - **Adaptation**: Practice adjusting detail level based on audience interest signals
 
+## Progress Tracking
+
+Use this tracking system to monitor your progress with each slide. Rate yourself in each category from 1-5 (1=Needs significant improvement, 5=Excellent).
+
+### Rating Scale
+
+**Content Knowledge**
+1. Very limited knowledge, missing key facts
+2. Basic knowledge, missing some important details
+3. Good knowledge of main points
+4. Strong knowledge with supporting details
+5. Comprehensive knowledge with additional insights
+
+**Delivery**
+1. Reading directly from notes, minimal eye contact
+2. Frequently referring to notes, some eye contact
+3. Occasional reference to notes, regular eye contact
+4. Minimal use of notes, consistent eye contact
+5. Natural delivery, excellent eye contact, engaging presence
+
+**Time Management**
+1. Significantly too short/long (±50% of target time)
+2. Somewhat too short/long (±30% of target time)
+3. Slightly off target time (±15% of target time)
+4. Very close to target time (±5% of target time)
+5. Perfect timing
+
+**Audience Engagement**
+1. No engagement techniques
+2. Basic questions or invitations to look at specific features
+3. Good use of questions and involvement
+4. Excellent involvement with varied techniques
+5. Outstanding engagement creating memorable experiences
+
+### Progress Table
+
+| Slide # | Topic | Practice Date | Content (1-5) | Delivery (1-5) | Timing (1-5) | Engagement (1-5) | Notes |
+|---------|-------|---------------|---------------|----------------|--------------|------------------|-------|
+| 01 | Malaysian Food | | | | | | |
+| 02 | Traditional Malay Kampung Houses | | | | | | |
+| 03 | Malaysian Places of Worship | | | | | | |
+| 04 | Mah Meri Cultural Heritage | | | | | | |
+| 05 | National Symbols | | | | | | |
+| 06 | Malaysian Nature and Wildlife | | | | | | |
+| 07 | Archaeological Heritage | | | | | | |
+| 08 | Malaysian Fruits | | | | | | |
+| 09 | Iconic Malaysian Buildings | | | | | | |
+| 10 | Malaysian Crafts | | | | | | |
+| 11 | Penang Attractions | | | | | | |
+| 12 | Malaysian Batik and Traditional Crafts | | | | | | |
+| 13 | Malaysian Mosques | | | | | | |
+| 14 | Putrajaya Landmarks | | | | | | |
+| 15 | National Symbols of Malaysia | | | | | | |
+| 16 | Malaysian Wildlife | | | | | | |
+| 17 | Nyonya Culture | | | | | | |
+| 18 | Wellness and Health Tourism | | | | | | |
+| 19 | Tourism Programs | | | | | | |
+| 20 | Malaysian Spices | | | | | | |
+| 21 | Historical Buildings in Kuala Lumpur | | | | | | |
+| 22 | Malaysian Homestay Program | | | | | | |
+| 23 | Batu Caves and Thaipusam | | | | | | |
+| 24 | Religious Sites in Penang | | | | | | |
+| 25 | Malacca Historical Sites | | | | | | |
+| 26 | Georgetown Heritage Features | | | | | | |
+| 27 | Traditional Games and Arts | | | | | | |
+| 28 | Malaysian Caves | | | | | | |
+| 29 | Malaysian Cultural Celebrations | | | | | | |
+| 30 | Malaysian Food (Part 2) | | | | | | |
+
 ## Customization
 
 Feel free to adapt these materials to your personal style:
@@ -143,7 +199,7 @@ Feel free to adapt these materials to your personal style:
 - Prioritize information based on your audience's interests
 - Create custom flashcards for facts you find difficult to remember
 
-## Technology Tools (Examples)
+## Technology Tools
 
 1. **Voice Recording Apps**: Use your smartphone to record practice sessions
 2. **Timer Apps**: Help maintain appropriate timing for each slide
@@ -169,6 +225,22 @@ Feel free to adapt these materials to your personal style:
 - **Expertise Focus**: Remind yourself that you're sharing valuable knowledge
 - **Visualization**: Imagine successful tour completion
 - **Progressive Exposure**: Practice with increasingly larger groups
+
+## Daily Practice Schedule Example
+
+| Day | Practice Focus | Method | Duration |
+|-----|----------------|--------|----------|
+| Mon | Slides 1-5 | Individual slide practice | 30 min |
+| Tue | Slides 6-10 | Individual slide practice | 30 min |
+| Wed | Slides 1-10 | Sequential practice | 30 min |
+| Thu | Slides 11-15 | Individual slide practice | 30 min |
+| Fri | Slides 16-20 | Individual slide practice | 30 min |
+| Sat | Slides 11-20 | Sequential practice | 30 min |
+| Sun | Slides 1-20 | Full run-through | 60 min |
+
+*Repeat with remaining slides the following week*
+
+---
 
 ## Final Advice
 
