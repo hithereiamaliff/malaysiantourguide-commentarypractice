@@ -586,18 +586,34 @@
     - Penang still produces some of highest quality nutmeg worldwide
     - Malay name: Pala
 
-#### POIs near Gottlieb Road:
-- **Penang Chinese Girls Private High School**
-  - Established educational institution
-  - Contributes to Penang's reputation for quality education
-  - Notable architectural features
-
-### Gurney Drive
-- Famous seafront promenade
-- Named after Sir Henry Gurney, British High Commissioner
-- Originally called "New Coast Road", created from land reclamation in 1930s
-- Popular tourist destination with food and shopping
-
+  - Asam Laksa
+    - **Origin**: Nyonya cuisine combining Peranakan (Chinese) recipes with Malay cooking
+    - **Cultural Background**:
+      - Created by Chinese immigrants blending techniques with Malay ingredients
+      - Originates from Penang (locally just called "Laksa")
+    - **Key Ingredients**:
+      - Rice noodles in spicy broth
+      - Broth made with tamarind juice, fish paste, shrimp paste, and chillies
+      - Typically includes boiled mackerel
+      - Topped with fresh herbs (mint, laksa leaves), onions, and cucumbers
+      - Sometimes includes pineapple
+    - **Flavor Profile**: Spicy, tangy, pungent, and fiery-hot
+    - **Cultural Significance**: 
+      - Iconic Penang street food
+      - Ranked #7 in CNN's World's 50 Best Foods 2020
+    
+    #### POIs near Gottlieb Road:
+    - **Penang Chinese Girls Private High School**
+      - Established educational institution
+      - Contributes to Penang's reputation for quality education
+      - Notable architectural features
+    
+    ### Gurney Drive
+    - Famous seafront promenade
+    - Named after Sir Henry Gurney, British High Commissioner
+    - Originally called "New Coast Road", created from land reclamation in 1930s
+    - Popular tourist destination with food and shopping
+    
 #### POIs on Gurney Drive:
 - **Wave of Prosperity Sculpture**
   - Modern landmark at Gurney Drive Roundabout
