@@ -554,6 +554,37 @@
 - Named after J.D. Gottlieb, a German plantation owner
 - Connects the hills to the coastal areas
 - Features upscale residential properties
+- Nutmeg (Biji Buah Pala/Buah Pala)
+  - **History and Origin**:
+    - Spice growing on evergreen tree, native to Banda Islands (Indonesia)
+    - British transplanted trees to Penang during Napoleonic Wars (1803-1815)
+    - Malaysia currently 10th largest global producer
+    - Introduced to Penang in late 18th century by British East India Company
+    - Penang's role diminished as cultivation spread
+  
+  - **Uses and Products**:
+    - In Penang, different parts are used:
+      - Flesh turned into pickle
+      - Mace (red covering of seed) into ointment
+      - Seed ground into spice
+    - Penang products include:
+      - Nutmeg jam
+      - Nutmeg balm
+      - Nutmeg oil
+      - Nutmeg juice
+      - Nutmeg syrup
+      - Candied nutmeg fruit
+      - Pickled nutmeg fruit
+      - Organic nutmeg tea
+    - Health benefits include detoxification and lowering blood pressure
+    - Can be boiled with rice in coconut milk
+    - Associated with Christmas, adds warmth to desserts
+    - Used in North Indian food
+  
+  - **Production and Quality**:
+    - Chang Kun Mim's Ghee Hup Nutmeg Factory is major Penang producer
+    - Penang still produces some of highest quality nutmeg worldwide
+    - Malay name: Pala
 
 #### POIs near Gottlieb Road:
 - **Penang Chinese Girls Private High School**
