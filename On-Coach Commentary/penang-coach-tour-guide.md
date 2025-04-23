@@ -544,6 +544,74 @@
   - Popular with families and fitness enthusiasts
   - Example of urban planning for community wellness
 
+  - Thaipusam Celebration
+    - **Religious Significance**:
+      - Tamil Hindu festival in January/February
+      - Occurs on full moon in Tamil month Thai when star Pusam is at highest point
+      - Name combines "Thai" (month) and "Pusam" (star)
+      - Dedicated to Lord Murugan (Hindu god of war and victory)
+      - Commemorates Murugan's victory over demon Surapadman
+      - Defeated with Vel (spear) given by mother Parvati
+      - Symbolizes triumph of good over evil
+      - Some consider it Murugan's birthday celebration
+    
+    - **Spiritual Purpose**:
+      - Time for spiritual purification, penance, thanksgiving
+      - Devotees seek pardon and blessings
+      - Malaysia hosts one of largest and most important celebrations globally
+      - Significant locations: Batu Caves (Kuala Lumpur), Ipoh (Perak), Penang
+      - Procession begins at Sri Mahamariamman Temple (Kuala Lumpur city center)
+      - Silver chariot (350 kg, 240 bells, pair of horses) carries Murugan idols
+    
+    - **Procession Elements**:
+      - Devotees undertake spiritual pilgrimage to Batu Caves
+      - Often walk barefoot after ritual bath in Sungai Batu River
+      - Procession includes chanting prayers, singing hymns, traditional music
+      - Tavil drum and nadaswaram trumpets provide musical accompaniment
+      - Chants include "Vel Vel Muruga" or "Kandanukku Arogara"
+      - Culminates in 272-step climb to temple
+      - Devotees offer prayers and fulfill vows
+    
+    ### 3. Kavadi during Thaipusam
+    - **Physical Structure and Symbolism**:
+      - Kavadi Aattam: ceremonial act of sacrifice and offering
+      - "Kavadi" means "burden" in Tamil
+      - Physical structure: two semicircular wood/steel pieces bent and attached to cross structure
+      - Balanced on devotee's shoulders
+      - Signifies debt bondage
+      - Ranges from simple to elaborate, heavy designs
+      - Adorned with flowers, peacock feathers, sometimes spikes
+      - Symbolizes devotee's burden (like two hills carried by Idumban)
+      - Belief: Murugan lessens life burden of kavadi carrier
+    
+    - **Devotional Practices**:
+      - Devotees often have multiple skewers/hooks pierced into skin
+      - Piercing of skin, tongue, cheeks with vel skewers
+      - Flagellation as mortification of flesh
+      - Vibuthi (holy ash) spread across body and piercing sites
+      - Many carry pot(s) of cow milk (paal kudam) as offering
+      - Highly auspicious to take Kavadi to Murugan temples during Thaipusam
+    
+### 4. Gender Roles during Kavadi in Thaipusam
+- **Male Participant Requirements**:
+  - Must wear dhoti
+  - Should not wear shirt (can cover chest with Rudraksha mala)
+  - May shave head and beard as offering before temple visit
+  - Male devotees can perform Ashthanga Namaskaram (eight-limb prostration)
+  - Can perform Angapradakshina (rolling over floor)
+
+- **Female Participant Requirements**:
+  - Must wear saree or Punjabi dress in yellow/orange colours
+  - Must tie hair (not loose) while praying at temple
+  - Women in menstrual period should not bear Kavadi or paal kudam
+  - Female devotees can perform Panchanga Namaskaram (five-part prostration)
+  - Female devotees not required to shave heads
+
+- **Common Participation**:
+  - Both male and female devotees can carry Kavadi and paal kudam
+  - Kavadi and milk offerings open to all devotees
+
+
 ### Botanical Garden
 - Established in 1884 by Charles Curtis
 - Also known as "Waterfall Gardens" due to the nearby cascade
