@@ -42,7 +42,7 @@
 
 ### 3. Komtar
 - **Structure and Function**:
-  - Kompleks Tunku Abdul Rahman Tower
+  - Kompleks Tun Abdul Razak Tower
   - Penang's tallest structure and prominent landmark in George Town
   - Located at 1 Jalan Penang, George Town
   - Cylindrical, 68-storey tower
